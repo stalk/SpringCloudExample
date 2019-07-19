@@ -1,0 +1,76 @@
+{
+  "listOfUsers": [
+    {
+      "name": "qwe",
+      "surname": "qwe",
+      "patronymic": "qwe",
+      "role": "user",
+      "login": "1234",
+      "password": "1234",
+      "phones": [
+        {
+          "phone": "1234123",
+          "companyName": "Megafon"
+        },
+        {
+          "phone": "23454325",
+          "companyName": "MTS"
+        }
+      ]
+    },
+    {
+      "name": "qwe",
+      "surname": "qwe",
+      "patronymic": "qwe",
+      "role": "user",
+      "login": "1234",
+      "password": "1234",
+      "phones": [
+        {
+          "phone": "1234123",
+          "companyName": "Megafon"
+        },
+        {
+          "phone": "23454325",
+          "companyName": "MTS"
+        }
+      ]
+    },
+    {
+      "name": "qwe",
+      "surname": "qwe",
+      "patronymic": "qwe",
+      "role": "admin",
+      "login": "1234",
+      "password": "1234",
+      "phones": [
+        {
+          "phone": "1234123",
+          "companyName": "Megafon"
+        },
+        {
+          "phone": "23454325",
+          "companyName": "MTS"
+        }
+      ]
+    },
+    {
+      "name": "qwe",
+      "surname": "qwe",
+      "patronymic": "qwe",
+      "role": "user",
+      "login": "1234",
+      "password": "1234",
+      "phones": [
+        {
+          "phone": "1234123",
+          "companyName": "Megafon"
+        },
+        {
+          "phone": "23454325",
+          "companyName": "MTS"
+        }
+      ]
+    }
+  ]
+}
